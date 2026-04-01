@@ -1,5 +1,5 @@
-homepage: "https://www.newnorth.nl"
-documentation: "https://www.newnorth.nl/tapfiliate-server-tag-template"
+homepage: "https://tapfiliate.com"
+documentation: "https://github.com/newnorthdigital/tapfiliate-server-tag/blob/main/README.md"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial release.
+  - sha: REPLACE_WITH_COMMIT_SHA
+    changeNotes: "Major update - Gallery-ready server-side template with all 4 API endpoints, meta data support, proper permissions, tests, and Tapfiliate branding."
