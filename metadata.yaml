@@ -1,5 +1,5 @@
 homepage: "https://tapfiliate.com"
 documentation: "https://github.com/newnorthdigital/tapfiliate-server-tag/blob/main/README.md"
 versions:
-  - sha: da6f4b13c95e6ac7111d15f8ef08db6a41dde57e
+  - sha: 7da97cd202f2f1cbf6da9d3a86bee79d1390fbcc
     changeNotes: "Major update - Gallery-ready server-side template with all 4 API endpoints, meta data support, proper permissions, tests, and Tapfiliate branding."
